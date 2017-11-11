@@ -1,0 +1,37 @@
+@media only screen and (max-width: 740px){
+	#wrapper {background: white;}
+}
+
+@media only screen and (max-width: 570px){
+	#wrapper {background: white;}
+}
+@media only screen and (max-width: 480px){
+	#wrapper {
+		width: 100%;
+	} 
+
+	#photo {
+	  
+  float: center;
+   top: 50%;
+   left: 50%;
+   width: 400px;
+   height: 500px;
+  
+   
+  
+   
+	}
+	#nom {
+		text-align: center;
+	}
+
+	#info {
+		text-align: center;
+	}
+	#statut{
+		text-align: center;
+		position: relative;
+	}
+
+}
